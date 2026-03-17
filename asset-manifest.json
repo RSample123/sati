@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sati/static/css/main.0b49c261.css",
+    "main.js": "/sati/static/js/main.52cfdda7.js",
+    "static/media/photo3.jpg": "/sati/static/media/photo3.257ad75c6687a178042d.jpg",
+    "static/media/photo7.jpg": "/sati/static/media/photo7.d64bcc22ddee681d71a2.jpg",
+    "static/media/photo4.jpg": "/sati/static/media/photo4.95c6111f9d0e0be7cfbd.jpg",
+    "static/media/photo2.jpg": "/sati/static/media/photo2.a408bed5849349d33d87.jpg",
+    "static/media/photo1.jpg": "/sati/static/media/photo1.4563cf49dad95871ae2c.jpg",
+    "static/media/photo6.jpg": "/sati/static/media/photo6.2af9e0c8154295ea1c4a.jpg",
+    "static/media/photo5.jpg": "/sati/static/media/photo5.0b4062c250ad747259f3.jpg",
+    "index.html": "/sati/index.html",
+    "main.0b49c261.css.map": "/sati/static/css/main.0b49c261.css.map",
+    "main.52cfdda7.js.map": "/sati/static/js/main.52cfdda7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b49c261.css",
+    "static/js/main.52cfdda7.js"
+  ]
+}
