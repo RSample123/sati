@@ -15,7 +15,7 @@ const photos = [photo1, photo2, photo3, photo4, photo5, photo6, photo7];
 // Psychology-themed fun facts about Sampriti
 const psychFacts = [
   { icon: '🧠', label: 'Type', value: 'Psychological Man' },
-  { icon: '🪞', label: 'Defense Mechanism', value: 'Chupchap Ghprer kone bose thaka' },
+  { icon: '🪞', label: 'Defense Mechanism', value: 'Chupchap Ghorer kone bose thaka' },
   { icon: '💭', label: 'Attachment Style', value: 'Securely Chaotic' },
   { icon: '🌙', label: 'Dream State', value: 'Perpetually Overthinking' },
   { icon: '🎭', label: 'Persona', value: 'Jung would be proud' },
